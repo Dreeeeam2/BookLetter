@@ -1,0 +1,10 @@
+﻿Hello，I am BookLetter‘s Docs
+I will tell you how to use this chantTool
+First ,open "Server",then open "Client",this is you have to do
+You can send this Tool to your friend,then,you can chant together.
+Server is using for the get message,and the Client is using for send message.
+so easy,you can use this tool now.
+You should download java in your computer,if you want to use this.
+when you want to chant ,you should make the:socket = new Socket("127.0.0.1",8998);
+ip=your computer's ip.
+                                ---------------------by Dream2
